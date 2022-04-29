@@ -1,0 +1,2 @@
+# Bin-Packing
+ Ce travail s’inscrit dans le cadre d’un mémoire de fin d’étude de la licence Calcul Scientifique et Application, et qui a été effectué au sein de la faculté des Sciences et Technique de Fès (FSTF), a pour objectif : « La réalisation de deux applications dont la première permet de déterminer les objets qu’il faut mettre dans un seul bin de manière à maximiser sa valeur totale sans dépasser le poids maximal de ce dernier, alors que la deuxième application permet de donner un rangement économique d’un ensemble d’objets dans plusieurs bins »
